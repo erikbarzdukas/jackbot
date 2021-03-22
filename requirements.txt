@@ -4,7 +4,7 @@ characteristic==14.3.0
 cryptography==1.0.2
 cssselect==0.9.1
 idna==2.0
-lxml==3.4.4
+lxml==4.6.3
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
 pycparser==2.14
